@@ -1,0 +1,10 @@
+h4{
+    background-color: blue;
+}
+body{
+    background-color:brown;
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
